@@ -1,3 +1,0 @@
-this is a workspace of laravel,created  by Mr.W
-
-this file was modified by Mr.W at 2016ss
